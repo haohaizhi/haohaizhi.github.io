@@ -1,0 +1,50 @@
+{
+	"head": {
+		"title": "红尘客栈",
+		"description": "Author:Walls Hong,Category:Personal HomePage",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "Walls Hong",
+		"subtitle": "We'll talk about it when the code runs.",
+		"enter": "Enter",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "云淡风轻",
+		"signature": "君看一叶舟，出没风波里。",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "blog/",
+				"icon": "blog",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "",
+				"icon": "twitter",
+				"text": "Twitter"
+			},
+			"third": {
+				"href": "",
+				"icon": "user",
+				"text": "About"
+			},
+			"fourth": {
+				"href": "",
+				"icon": "photos",
+				"text": "Photos"
+			},
+			"fifth": {
+				"href": "https://hub.fastgit.org/haohaizhi",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
