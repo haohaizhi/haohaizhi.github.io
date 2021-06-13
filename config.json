@@ -21,29 +21,44 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "",
 				"icon": "blog",
-				"text": "Blog"
+				"text": ""
 			},
 			"second": {
 				"href": "",
-				"icon": "twitter",
-				"text": "Twitter"
+				"icon": "edit",
+				"text": ""
 			},
 			"third": {
 				"href": "",
-				"icon": "user",
-				"text": "About"
+				"icon": "download",
+				"text": ""
 			},
 			"fourth": {
 				"href": "",
 				"icon": "photos",
-				"text": "Photos"
+				"text": ""
 			},
 			"fifth": {
 				"href": "https://hub.fastgit.org/haohaizhi",
 				"icon": "github",
-				"text": "Github"
+				"text": ""
+			},
+			"sixth": {
+				"href": "",
+				"icon": "wechat",
+				"text": ""
+			},
+			"seventh": {
+				"href": "",
+				"icon": "twitter",
+				"text": ""
+			},
+			"eighth": {
+				"href": "",
+				"icon": "user",
+				"text": ""
 			}
 		}
 	}
